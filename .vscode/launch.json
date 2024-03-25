@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/LG/OneDrive/document/C_programming/week3",
-      "program": "c:/Users/LG/OneDrive/document/C_programming/week3/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "C:/C_programming/week3",
+      "program": "C:/C_programming/week3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
@@ -29,7 +29,7 @@
       "stopAtEntry": false,
       "cwd": "${fileDirname}",
       "environment": [],
-      "externalConsole": true,
+      "externalConsole": false,
       "MIMode": "gdb",
       "miDebuggerPath": "C:\\ProgramData\\mingw64\\mingw64\\bin\\gdb.exe",
       "setupCommands": [
